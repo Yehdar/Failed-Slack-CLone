@@ -4,9 +4,15 @@ Why is backend so difficult???
 ## DETAILS
 - Used https://github.com/davidrakosi/slack-clone-react as the frontend
 - Planned to integrate a backend build MERN (but ultimately failed)
+- Routed GET, PUSH and POST APIs
+- Created a MongoDB database
+- Programmed about 60% of the backend by using express.js and node.js (stopped at 60% because I could not find a solution to the log-in API)
 
 ## DRAWBACKS
 - I couldn't even set up an API for the login credientials page
+
+## TAKEAWAYS
+- Get better at backend
 
 ## SHOUT-OUTS
 THANK YOU TO THE CLEVER PROGRAMMER TEAM FOR ENCOURAGING ME TO TAKE ON SUCH A DAUNTING TASK. INSPIRATION AND GUIDE: 

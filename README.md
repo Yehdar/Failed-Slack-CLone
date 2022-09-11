@@ -3,7 +3,7 @@ Why is backend so difficult???
 
 ## DETAILS
 - Used https://github.com/davidrakosi/slack-clone-react as the frontend
-- Planned to integrate a backend build MERN
+- Planned to integrate a backend build MERN (but ultimately failed)
 
 ## DRAWBACKS
 - I couldn't even set up an API for the login credientials page

@@ -1,3 +1,18 @@
+# ANOTHER FAILED ATTEMPT AT MERN BACKEND
+Why is backend so difficult???
+
+## DETAILS
+- Used https://github.com/davidrakosi/slack-clone-react as the frontend
+- Planned to integrate a backend build MERN
+
+## DRAWBACKS
+- I couldn't even set up an API for the login credientials page
+
+## SHOUT-OUTS
+THANK YOU TO THE CLEVER PROGRAMMER TEAM FOR ENCOURAGING ME TO TAKE ON SUCH A DAUNTING TASK. INSPIRATION AND GUIDE: 
+https://youtu.be/7O3M6z9uoxQ
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

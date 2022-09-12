@@ -3,10 +3,10 @@ Why is backend so difficult???
 
 ## DETAILS
 - Used https://github.com/davidrakosi/slack-clone-react as the frontend
-- Planned to integrate a backend build MERN (but ultimately failed)
+- Planned to integrate a backend MERN build (but ultimately failed)
 - Routed GET, PUSH and POST APIs
 - Created a MongoDB database
-- Programmed about 60% of the backend by using express.js and node.js (stopped at 60% because I could not find a solution to the log-in API)
+- Programmed about 60% of the backend by using express.js and node.js (stopped at 60% because I could not find a solution to the slack log-in API error)
 
 ## DRAWBACKS
 - I couldn't even set up an API for the login credientials page
